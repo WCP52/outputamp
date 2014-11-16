@@ -1,4 +1,4 @@
-update=Sat 15 Nov 2014 10:41:43 AM EST
+update=Sun 16 Nov 2014 04:14:27 PM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,8 +25,19 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[general]
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=renders
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
 [eeschema]
 version=1
 LibDir=../../../../electronics/kicad/library
@@ -75,3 +86,6 @@ LibName41=2N-SMD
 LibName42=2N
 LibName43=1N-SMD
 LibName44=1N
+LibName45=macom
+[general]
+version=1
