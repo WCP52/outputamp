@@ -609,8 +609,6 @@ F 3 "" H 2350 3300 50  0000 C CNN
 	1    2350 3300
 	-1   0    0    -1  
 $EndComp
-Text Notes 2350 4800 0    60   ~ 0
-To use basic linear regulator, jumper pins 1-2 and 4-5.\nTo power externally, supply +5V to pin 1 and -5V to pin 5.
 $Comp
 L PMV160UP Q4
 U 1 1 5469160A
