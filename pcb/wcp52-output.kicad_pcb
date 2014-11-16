@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 134.699999 81.765 168.300001 115.300001)
     (thickness 1.6)
-    (drawings 67)
+    (drawings 66)
     (tracks 373)
     (zones 0)
     (modules 50)
@@ -39,7 +39,7 @@
   )
 
   (setup
-    (last_trace_width 0.6)
+    (last_trace_width 0.2)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
@@ -1390,7 +1390,6 @@
   (gr_line (start 167.5 94.5) (end 167.5 98.5) (angle 90) (layer B.SilkS) (width 0.2))
   (gr_line (start 167 92.5) (end 167.5 94.5) (angle 90) (layer B.SilkS) (width 0.2))
   (gr_line (start 166 91.5) (end 167 92.5) (angle 90) (layer B.SilkS) (width 0.2))
-  (gr_line (start 164.5 91.5) (end 165 91.5) (angle 90) (layer B.SilkS) (width 0.2))
   (gr_line (start 155.5 94.5) (end 158.5 93) (angle 90) (layer B.SilkS) (width 0.2))
   (gr_line (start 159.5 89) (end 159.5 94) (angle 90) (layer B.SilkS) (width 0.2))
   (gr_line (start 164.5 89) (end 164.5 94) (angle 90) (layer B.SilkS) (width 0.2))

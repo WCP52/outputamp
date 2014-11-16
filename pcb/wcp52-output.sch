@@ -43,18 +43,17 @@ LIBS:2N-SMD
 LIBS:2N
 LIBS:1N-SMD
 LIBS:1N
-LIBS:macom
 LIBS:wcp52-output-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 3
-Title ""
-Date ""
+Title "Output Amplifier Prototype"
+Date "Sun 16 Nov 2014"
 Rev ""
-Comp ""
-Comment1 ""
+Comp "WCP52"
+Comment1 "Gain/Phase Analyzer"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -712,7 +711,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 2300 4300 2300
 $Sheet
-S 5050 4050 1300 1000
+S 850  6550 1300 1000
 U 546936E7
 F0 "Power" 60
 F1 "Power.sch" 60
