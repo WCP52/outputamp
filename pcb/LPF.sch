@@ -1,48 +1,12 @@
 EESchema Schematic File Version 2
-LIBS:vishay_semi
 LIBS:texas
-LIBS:symbol
 LIBS:supertex
-LIBS:st_semi
-LIBS:st_ic
-LIBS:skyworks
-LIBS:silabs
-LIBS:semi
-LIBS:russian-nixies
-LIBS:resistors
 LIBS:power
-LIBS:passive
-LIBS:onsemi
-LIBS:nxp_semi
-LIBS:nxp_ic
 LIBS:microchip
-LIBS:mechanical
-LIBS:maxim
-LIBS:ltc
-LIBS:lattice
-LIBS:ixys
-LIBS:irf
-LIBS:intersil
-LIBS:infineon
-LIBS:inductors
-LIBS:ic_template
 LIBS:ftdi
-LIBS:fairchild_semi
-LIBS:fairchild_ic
-LIBS:electromech
 LIBS:display
-LIBS:diodesinc
 LIBS:conn
-LIBS:capacitors
 LIBS:atmel
-LIBS:altera
-LIBS:ad
-LIBS:7400
-LIBS:4000
-LIBS:2N-SMD
-LIBS:2N
-LIBS:1N-SMD
-LIBS:1N
 LIBS:wcp52-output-cache
 EELAYER 25 0
 EELAYER END
@@ -327,7 +291,7 @@ BD 9A 96 1F 97 22 86 B0 DA 14 2B 53 D4 12 2F BB AF 9E CC FF F8 67 5F 29 23 97 18
 1E BE 5B 88 97 DD 64 B7 91 9D 4B 8C 82 08 6B 5D 4C C5 CB 74 B2 73 6A 40 72 A6 2E 31 1C 84 B5 22 
 C1 F7 8A 84 AC C5 EB CC 67 76 8F C7 63 F9 76 4F F1 8B 12 7B C4 80 22 62 E1 23 AC 8D F1 03 9A 91 
 F2 E6 7D 0B 9F 9C 06 13 01 00 E8 82 E9 DB 58 00 28 85 64 07 A0 0B FF 00 80 14 FA 86 7D 9E 7F 98 
-00 00 00 00 49 45 4E 44 AE 42 60 82 00 
+00 00 00 00 49 45 4E 44 AE 42 60 82 9F 
 EndData
 $EndBitmap
 Text Notes 800  4750 0    100  ~ 0
